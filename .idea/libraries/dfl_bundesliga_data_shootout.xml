@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="dfl-bundesliga-data-shootout">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dfl-bundesliga-data-shootout.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
