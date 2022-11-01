@@ -1,0 +1,15 @@
+none	0
+challenge	1
+play	2
+throwin	3
+ball_action_forced	4
+opponent_dispossessed	5
+pass	6
+openplay	7
+cross	8
+possession_retained	9
+freekick	10
+fouled	11
+opponent_rounded	12
+corner	13
+challenge_during_ball_transfer	14
